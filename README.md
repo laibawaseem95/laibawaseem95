@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aiza waseem and I'm a Frontend Web Developer from Karachi Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Laiba waseem and I'm a Frontend Web Developer from Karachi Pakistan</h2>
 
 ###
 
